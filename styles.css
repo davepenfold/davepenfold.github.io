@@ -1,0 +1,29 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background:#000;
+	color:#ccc;
+	padding:1.25em;
+	font-family: "Droid Sans", serif;
+	font-size:135%;
+	line-height:1.25;
+}
+span {
+	font-size:100%;
+	color:#999;
+}
+small {
+  font-size:90%;
+}
+a:link,
+a:visited {
+	color:#FFF;
+	text-decoration:none;
+}
+a:hover {
+	color:#CDCDCD;
+	text-decoration:underline;
+}
